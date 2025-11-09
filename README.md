@@ -6,7 +6,7 @@ A modern, responsive personal portfolio website showcasing my journey as a Senio
 
 ## 🌟 Live Demo
 
-🔗 **[View Live Portfolio](https://vrushabhendrakumarkn.github.io/portfolio/)**
+🔗 **[View Live Portfolio](https://vrushabhendra661.github.io/portfolio/)**
 
 ## 👨‍💻 About Me
 
